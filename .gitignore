@@ -1,0 +1,6 @@
+#VSCODE
+.vscode
+
+#Library folders
+bin/
+
